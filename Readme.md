@@ -13,6 +13,9 @@ Une série d'articles qui explique les bases de l'overflow (fr) sur [kali-linux.
 
 Windows Internals (fr) sur [http://ntoskrnl.org/](http://ntoskrnl.org/)
 
+### Crypto
+
+Comment fonctionne l'encodage Base64 (en) sur [https://n0.lol/]( https://n0.lol/encmute/)
 
 ### NetSec
 
